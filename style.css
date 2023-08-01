@@ -24,6 +24,8 @@ li {
   color: var(--text);
 }
 
+/* container */
+
 .container {
   max-width: 1440px;
   height: 80vh;
@@ -65,7 +67,6 @@ li {
   background: rgba(255, 255, 255, 0.5);
   transition: 0.3s ease;
 }
-
 .nav {
   font-size: 1.4rem;
   padding-top: 4rem;
@@ -124,7 +125,7 @@ li {
   display: none;
 }
 
-* Header */
+/* Header */
 
 header {
   position: relative;
