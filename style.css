@@ -5,9 +5,9 @@
 }
 
 :root {
-  --blue: #DC5429;
-  --pink: #47846D;
-  --text: #F0D266;
+  --blue: #47846D;
+  --pink: #DCA12D;
+  --text: #DC5429;
 }
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;900&display=swap");
 body {
