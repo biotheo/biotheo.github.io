@@ -34,7 +34,7 @@ li {
   margin-top: 10vh;
   border-radius: 10px;
   box-shadow: 10px 10px 25px 2px #111;
-  animation: fadeIn 4s ease-out;
+  <!-- animation: fadeIn 4s ease-out; -->
 }
 @keyframes fadeIn {
   0% {
