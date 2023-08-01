@@ -7,7 +7,7 @@
 :root {
   --blue: #D4580B;
   --pink: #F6BC0C;
-  --text: #FFFFFF;
+  --text: #D0CDC9;
 }
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;900&display=swap");
 body {
