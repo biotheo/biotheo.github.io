@@ -1,4 +1,6 @@
 # Personal webpage
+![Website Preview](https://github.com/biotheo/biotheo.github.io/blob/main/GitHub_accessories/Repo_Pciture.PNG)
+
 
 This is the repo of the code of my web-version of Matteo Angeli resume, hosted in GitHub Pages.
 
