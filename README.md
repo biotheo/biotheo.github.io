@@ -19,37 +19,38 @@ I also modified the position of the picture to fit properly in narrow screen (i.
 ```
 BioTheo's Web-Resume
 
-├───index.html
-│
-├───assets
-│   └───img
-│           butterfly.ico
-│           doc_2023-12-01_17-05-25.gif
-│           icons_color.txt
-│           interests_ukulele.jpg
-│           LaTeX_logo.png
-│           matteo.jpg
-│           matteo_beekeeper_sand.jpg
-│           matteo_speaking - Copy.jpg
-│           matteo_speaking.jpg
-│           microsoft_office_icon.png
-│           overleaf_logo.png
-│           photo_2023-12-02_01-32-32.jpg
-│           photo_2023-12-02_01-32-32_B.jpg
-│           photo_2023-12-02_01-32-32_C.jpg
-│           qgis_logo.png
-│           qgis_logo_Q.png
-│           RStudio.png
-│
-├───css
-│       styles.css
-│
-├───GitHub_accessories
-│       Repo_Picture.PNG
-│       Repo_Picture_smartphone.jpg
-│
-└───js
-        scripts.js
+├── assets
+│   ├── img
+│   │   ├── butterfly.ico
+│   │   ├── doc_2023-12-01_17-05-25.gif
+│   │   ├── icons_color.txt
+│   │   ├── interests_ukulele.jpg
+│   │   ├── LaTeX_logo.png
+│   │   ├── matteo_beekeeper_sand.jpg
+│   │   ├── matteo.jpg
+│   │   ├── matteo_speaking - Copy.jpg
+│   │   ├── matteo_speaking.jpg
+│   │   ├── microsoft_office_icon.png
+│   │   ├── overleaf_logo.png
+│   │   ├── photo_2023-12-02_01-32-32_B.jpg
+│   │   ├── photo_2023-12-02_01-32-32_C.jpg
+│   │   ├── photo_2023-12-02_01-32-32.jpg
+│   │   ├── qgis_logo.png
+│   │   ├── qgis_logo_Q.png
+│   │   └── RStudio.png
+│   └── pdf
+│       └── AngeliMatteo_CV.pdf
+├── css
+│   └── styles.css
+├── GitHub_accessories
+│   ├── Repo_Picture.PNG
+│   └── Repo_Picture_smartphone.jpg
+├── index.html
+├── js
+│   └── scripts.js
+├── LICENCE
+└── README.md
+
 ```
 
 ## Licence
